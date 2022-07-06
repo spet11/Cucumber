@@ -1,0 +1,112 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "User able to open the browser",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "Enter the URL",
+            "match": {},
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 7,
+        "name": "Nopcommerce Register page Test",
+        "description": "",
+        "id": "nopcommerce-register;nopcommerce-register-page-test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "User Click on Register link",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "User Enter first name and last name",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "User Enter the date of birth",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "User Enter the email",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 12,
+            "name": "User enter the password",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "User Enter the Confirm password",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 14,
+            "name": "Click on Register",
+            "match": {},
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Nopcommerce Register",
+    "description": "",
+    "id": "nopcommerce-register",
+    "keyword": "Feature",
+    "uri": "C:/Users/sanju/IdeaProjects/BDD/src/test/resources/Feature/Register.Feature"
+  }
+]
